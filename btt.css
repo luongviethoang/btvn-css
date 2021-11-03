@@ -1,0 +1,8 @@
+body{
+    color: #0088dd;
+    font-family: Arial, Verdana, sans-serif;
+}
+p{
+    display: inline-block;
+    border-style: dot-dash;
+}

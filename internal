@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hoàng</title>
+    <style type="text/css">
+        body{
+            color: #0088dd;
+            font-family: Arial, Verdana, sans-serif;
+        }
+        p{
+            display: inline-block;
+            border-style: dot-dash;
+        }
+    </style>
+</head>
+<body>
+    <p class="one">id class t2109m các loại selector trong html</p>
+</body>
+</html>
