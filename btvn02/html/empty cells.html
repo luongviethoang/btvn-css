@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Empty Cells</title>
+    <style type="text/css">
+        td {
+            border: 1px solid #0088dd;
+            padding: 15px;}
+        table.one {
+            /*empty-cells: show;}*/hiển thị tất cả các ô
+        table.two {
+            /*empty-cells: hide;}*/dấu những ô ko có j cả
+    </style>
+</head>
+<body>
+<table class="one">
+<!--    <tr>-->dùng để dịnh rõ từng hàng của bảng
+<!--        <td>1</td>-->phần tử <td> dùng để vạch rõ từng ô của 1 hàng
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td></td>
+    </tr>
+</table>
+<table class="two">
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td></td>
+    </tr>
+</table>
+</body>
+</html>
